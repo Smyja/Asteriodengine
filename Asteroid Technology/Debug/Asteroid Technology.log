@@ -1,0 +1,1169 @@
+﻿Build started 28/08/2018 08:09:51 AM.
+     1>Project "C:\CRYSTAL PROGRAMS\Asteroid Technology\Asteroid Technology\Asteroid Technology.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(106): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(106): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(107): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(107): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(132): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(132): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(177): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(177): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(183): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(183): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(203): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(203): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\define.h(264): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(50): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(74): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(99): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(122): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(144): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(227): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(230): warning C4018: '>=': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(233): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(249): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(260): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(276): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(280): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(295): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(298): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(332): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(389): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(457): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(470): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(480): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(484): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(484): warning C4244: '=': conversion from 'GLuint' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(488): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(488): warning C4244: '=': conversion from 'GLuint' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\import.h(495): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(150): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(155): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(158): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(159): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(181): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(190): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shadow.h(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(23): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(24): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(142): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(149): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(169): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(170): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(215): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(230): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(231): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(236): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(238): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(239): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(296): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(298): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(299): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(304): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(308): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(309): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(331): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(357): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(358): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(359): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(380): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(383): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(389): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(391): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(393): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(394): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(400): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(409): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(410): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(412): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(416): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(417): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(422): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(424): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(469): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(470): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(471): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(472): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(474): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(475): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(476): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(477): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(478): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(503): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(519): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(520): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\camera.h(521): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(298): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(371): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(388): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(398): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(409): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(417): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(424): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(429): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(442): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(459): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(469): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(481): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(489): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(501): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(506): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(511): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(511): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(512): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(514): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(530): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(551): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(552): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(553): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(556): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(557): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(558): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(562): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(569): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(580): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(587): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(595): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(600): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(618): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(643): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(647): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(652): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(653): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(656): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(684): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(711): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(711): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(731): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\pilot.h(733): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(10): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(188): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(189): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(190): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(212): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(250): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(252): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(253): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(254): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(255): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(256): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(257): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(258): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(259): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(260): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(261): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(262): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(263): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(265): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(266): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(267): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(269): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(270): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(272): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(273): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(273): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(274): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(276): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(276): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(277): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(283): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(291): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(292): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(296): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(298): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(299): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\telescope.h(299): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(3): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(5): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(38): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(114): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(116): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(118): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(119): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(159): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(161): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(240): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(246): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(248): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(249): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(250): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(251): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(252): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(253): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(254): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(255): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(256): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(257): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(258): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(259): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(261): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(262): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(262): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(263): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(265): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(266): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(268): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(269): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(270): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(272): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(273): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(404): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(406): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(407): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(409): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(410): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(411): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(412): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(413): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(414): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(416): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(417): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(417): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(418): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(420): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(421): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(423): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(424): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(424): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(425): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(425): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(427): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(428): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(430): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(431): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(433): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(436): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(437): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(438): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(439): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(440): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(440): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(441): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(441): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(442): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(443): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(443): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(444): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(545): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(555): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(559): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(679): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(689): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(693): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(772): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(782): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\material.h(786): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(6): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(93): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(101): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(109): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(114): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(127): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(141): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(194): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(197): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(206): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\shading.h(209): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(123): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(148): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(151): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(183): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(205): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(209): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(232): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(236): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(260): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(267): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(271): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(272): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(415): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(416): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(419): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(420): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(422): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(594): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(596): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(607): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(609): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(621): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(623): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(634): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(636): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(647): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(649): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(661): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(663): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(721): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(722): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(724): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(725): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(726): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(726): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(728): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(794): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(882): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(901): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(909): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(910): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(912): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(913): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(914): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(914): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(916): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(987): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1096): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1119): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1135): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1146): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1156): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1166): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1196): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1211): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1215): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1226): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1230): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1234): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1245): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1249): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1263): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1267): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1282): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1287): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1291): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1302): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1310): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1448): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1449): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1450): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1455): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1460): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1461): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1467): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1468): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1475): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1476): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1487): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1488): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1489): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1499): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1501): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1508): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1509): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1517): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1518): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1519): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1526): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1527): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1528): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1532): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1533): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1534): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1541): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1547): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1548): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1549): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1556): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1557): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1558): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1562): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1563): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1564): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1571): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1572): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1573): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1578): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1579): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1585): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1586): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1593): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1594): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1595): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1599): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1601): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1608): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1610): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1615): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1616): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1622): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1623): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1630): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1631): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1632): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1637): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1638): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1642): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1643): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1651): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1652): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1653): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1658): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1659): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1663): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1664): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1665): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1672): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1673): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1674): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1678): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1679): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1680): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1684): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1685): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1686): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1901): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1906): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1936): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1946): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1951): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(1956): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2064): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2065): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2066): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2067): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2071): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2072): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2073): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2074): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2075): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2079): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2083): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2087): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2088): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2092): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2093): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2096): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2098): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2102): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2107): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2114): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2119): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2121): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2124): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2125): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\functions.h(2133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(255): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(266): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(270): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(271): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(271): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(273): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(395): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(397): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(397): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(401): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(402): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(408): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(410): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(410): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(415): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(421): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(423): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(428): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(435): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(437): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(437): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(441): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(442): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(457): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(494): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(506): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(519): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(530): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(532): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(533): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(534): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(535): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(536): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(537): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(538): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(539): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(549): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(557): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(559): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(560): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(561): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(562): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(563): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(564): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(565): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(566): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(567): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(577): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(586): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(588): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(589): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(590): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(591): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(592): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(593): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(594): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(595): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(596): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(597): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(607): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(616): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(618): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(619): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(620): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(621): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(622): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(623): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(624): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(625): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(626): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(627): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(628): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(638): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(647): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(649): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(650): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(651): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(652): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(653): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(654): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(655): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(656): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(657): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(658): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(659): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(660): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(670): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(686): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(688): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(689): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(690): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(699): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(701): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(702): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(712): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(721): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(723): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(724): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(725): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(726): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(735): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(737): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(738): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(739): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(749): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(759): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(761): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(762): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(763): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(764): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(765): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(774): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(776): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(777): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(778): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(779): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(789): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(800): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(802): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(803): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(804): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(805): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(806): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(807): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(816): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(818): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(819): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(820): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(821): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(822): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(833): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(844): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(846): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(847): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(848): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(849): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(850): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(851): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(852): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(861): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(863): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(864): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(865): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(866): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(867): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(868): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(879): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(891): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(893): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(894): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(895): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(896): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(897): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(898): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(899): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(900): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(909): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(911): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(912): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(913): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(914): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(915): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(916): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(917): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(928): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1004): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1022): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1041): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1058): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1071): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1084): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1097): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1110): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1167): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1172): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1177): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1205): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1207): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1208): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1210): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1211): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1212): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1213): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1239): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1241): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1242): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1244): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1245): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1246): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1247): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1271): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1273): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1274): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1275): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1276): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1276): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1277): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1278): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1296): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1303): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1305): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1306): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1308): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1324): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1326): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1327): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1329): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1337): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1346): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1348): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1349): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1351): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1359): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1369): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1371): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1372): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1374): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1382): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1394): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1396): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1397): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1398): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1399): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1399): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1400): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1400): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1401): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1428): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1430): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1432): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1440): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1442): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1453): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1455): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1456): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1458): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1472): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1474): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1475): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1477): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1485): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1491): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1493): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1494): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1496): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1509): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1511): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1512): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1514): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1527): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1529): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1530): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1532): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1649): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1651): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1652): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1698): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1700): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1701): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1746): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1748): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1749): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1794): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1796): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1797): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1842): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1844): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1845): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1890): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1892): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1893): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1989): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(1993): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2001): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2005): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2014): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2018): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2029): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2039): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2055): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2059): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2137): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2205): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2207): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2208): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2210): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2222): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2224): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2225): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2227): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2239): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2241): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2242): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2244): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2257): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2259): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2260): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2262): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2275): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2277): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2278): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2280): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2293): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2295): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2296): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2298): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2313): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2315): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2316): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2318): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2331): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2333): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2334): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2336): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2344): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2349): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2351): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2352): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2354): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2362): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2367): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2369): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2370): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2372): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2380): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2385): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2387): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2388): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2390): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2398): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2403): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2405): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2406): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2408): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2416): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2421): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2423): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2424): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2426): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2447): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2449): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2451): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2459): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2463): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2465): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2466): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2468): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2476): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2480): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2482): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2483): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2485): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2497): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2499): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2500): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2502): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2515): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2517): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2518): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2520): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2528): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2533): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2535): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2536): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2538): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2551): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2553): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2554): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2556): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2564): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2569): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2571): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2572): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2574): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2582): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2587): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2589): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2590): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2592): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2605): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2607): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2608): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2610): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2618): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2623): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2625): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2626): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2628): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2636): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2641): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2643): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2644): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2646): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2654): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2662): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2663): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2664): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2667): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2667): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2671): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2672): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2678): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2679): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2680): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2683): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2683): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2687): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2688): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2693): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2694): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2695): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2698): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2698): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2702): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2703): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2708): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2709): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2710): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2713): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2713): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2718): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2726): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2726): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2727): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2727): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2727): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2728): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2728): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2728): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2729): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2729): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2736): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2736): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2737): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2737): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2737): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2738): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2738): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2738): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2739): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2739): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2746): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2747): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2748): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2764): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2765): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2766): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2781): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2782): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2783): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2798): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2799): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2800): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2816): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2833): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2853): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2854): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2855): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2871): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2872): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2873): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2888): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2889): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2890): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2905): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2906): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2907): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2925): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(2942): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3033): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3046): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3059): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3072): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3085): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3098): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3139): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3152): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3153): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3166): warning C4305: '+=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3179): warning C4305: '-=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3179): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3192): warning C4305: '+=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3205): warning C4305: '-=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3205): warning C4305: '=': truncation from 'double' to 'float'
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3282): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3319): warning C4018: '<': signed/unsigned mismatch
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3321): warning C4018: '<': signed/unsigned mismatch
+         GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+     1>c:\crystal programs\asteroid technology\asteroid technology\source.cpp(3352): warning C4715: 'WndProc': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CRYSTAL PROGRAMS\Asteroid Technology\Debug\Asteroid Technology.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib glfw3.lib glew32s.lib OpenGl32.lib SOIL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\CRYSTAL PROGRAMS\Asteroid Technology\Debug\Asteroid Technology.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\CRYSTAL PROGRAMS\Asteroid Technology\Debug\Asteroid Technology.lib" /MACHINE:X86 "Debug\Asteroid Technology.res"
+         Debug\Source.obj
+         Asteroid Technology.vcxproj -> C:\CRYSTAL PROGRAMS\Asteroid Technology\Debug\Asteroid Technology.exe
+     1>Done Building Project "C:\CRYSTAL PROGRAMS\Asteroid Technology\Asteroid Technology\Asteroid Technology.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:22.23
